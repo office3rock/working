@@ -1,15 +1,15 @@
 {
-  "baseUrl": "spider.ussl.co.il/{REPO_NAME}",
-  "protocol": "https",
-  "hostingWPCOM": false,
-  "useACF": true,
-  "includedRoutes": [
-    "**/categories",
-    "**/posts",
-    "**/pages",
-    "**/media",
-    "**/tags",
-    "**/taxonomies",
-    "**/users"
-  ]
+    "baseUrl":  "reshet.jetdomains.co.il/working",
+    "protocol":  "https",
+    "hostingWPCOM":  false,
+    "useACF":  true,
+    "includedRoutes":  [
+                           "**/categories",
+                           "**/posts",
+                           "**/pages",
+                           "**/media",
+                           "**/tags",
+                           "**/taxonomies",
+                           "**/users"
+                       ]
 }
